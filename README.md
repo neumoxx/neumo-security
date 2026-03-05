@@ -102,3 +102,11 @@ https://audits.sherlock.xyz/contests/46/leaderboard
 Technical writing and vulnerability analysis:
 
 https://neumo.hashnode.dev
+
+## Research Areas
+
+* DeFi protocol security
+* Protocol design and attack surface analysis
+* Smart contract auditing (Solidity / Clarity)
+* Blockchain infrastructure vulnerabilities
+* Formal verification and invariant design
