@@ -103,6 +103,9 @@ Technical writing and vulnerability analysis:
 
 https://neumo.hashnode.dev
 
+
+---
+
 ## Research Areas
 
 * DeFi protocol security
